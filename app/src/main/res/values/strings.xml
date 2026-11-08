@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="titol_login">Inici de sessió</string>
+    <string name="hint_usuari">Nom d\'usuari</string>
+    <string name="hint_contrasenya">Contrasenya</string>
+    <string name="btn_login">Iniciar sessió</string>
+    <string name="btn_logout">Tancar sessió</string>
+    <string name="btn_tornar">Tornar al login</string>
+    <string name="error_camps">Cal emplenar tots els camps</string>
+    <string name="benvinguda">Benvingut/da, %1$s!</string>
+    <string name="comiat">Sessió tancada. Fins aviat, %1$s!</string>
+</resources>
